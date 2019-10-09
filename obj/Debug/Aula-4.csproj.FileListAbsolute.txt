@@ -1,0 +1,12 @@
+E:\rafael\Aula-4\ContrasteImagem\bin\Debug\Aula-3.exe.config
+E:\rafael\Aula-4\ContrasteImagem\bin\Debug\Aula-3.exe
+E:\rafael\Aula-4\ContrasteImagem\bin\Debug\Aula-3.pdb
+E:\rafael\Aula-4\ContrasteImagem\bin\Debug\DIPLi.dll
+E:\rafael\Aula-4\ContrasteImagem\obj\Debug\Aula-4.csprojAssemblyReference.cache
+E:\rafael\Aula-4\ContrasteImagem\obj\Debug\Aula_3.Form1.resources
+E:\rafael\Aula-4\ContrasteImagem\obj\Debug\Aula_3.Properties.Resources.resources
+E:\rafael\Aula-4\ContrasteImagem\obj\Debug\Aula-4.csproj.GenerateResource.cache
+E:\rafael\Aula-4\ContrasteImagem\obj\Debug\Aula-4.csproj.CoreCompileInputs.cache
+E:\rafael\Aula-4\ContrasteImagem\obj\Debug\Aula-4.csproj.CopyComplete
+E:\rafael\Aula-4\ContrasteImagem\obj\Debug\Aula-3.exe
+E:\rafael\Aula-4\ContrasteImagem\obj\Debug\Aula-3.pdb
