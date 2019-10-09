@@ -36,7 +36,7 @@ namespace Aula_3
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            //colocar o endereço que esta armazenado sua imagem no PC
             Imagem I = new Imagem("E:\\LennaCinza2.jpg");
             I = I.ToGrayscale();
             pictureBox1.Image = I.ToBitmap();
@@ -114,7 +114,7 @@ namespace Aula_3
             chart2.Series["Series1"].Points.DataBindXY(x, y);
             pictureBox2.Image = I.ToBitmap();
 
-
+            //colocar o endereço que esta armazenado sua imagem no PC
             I = new Imagem("E:\\LennaCinza2.jpg");
             I = I.ToGrayscale();
             double[] hist = new double[256];
